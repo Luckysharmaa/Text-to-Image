@@ -4,6 +4,7 @@ import io
 from PIL import Image
 import base64
 import logging
+import os
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
